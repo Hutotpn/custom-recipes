@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        " G ",
+        " J "
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        },
+        "J": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:bell",
+        "count": 1
+    }
+}
